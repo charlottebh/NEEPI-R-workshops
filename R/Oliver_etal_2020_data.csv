@@ -1,0 +1,55 @@
+Date,Date Type,Organism,Vaccination,Region,County,Town,Count
+9/12/2015,DateOfOnset,Human,No,Central,Oswego,Albion,1
+8/27/2019,DateOfOnset,Horse,No,Central,Oswego,Albion,1
+1/7/1900,DateofCollection,Mosquito,No,Central,Oswego,Albion,6
+8/12/2019,DateOfOnset,Horse,No,Central,Oswego,Amboy,1
+8/25/2019,DateOfOnset,Horse,No,Central,Oswego,Amboy,1
+7/29/2014,DateOfOnset,Human,No,Central,Onondaga,Cicero,1
+1/3/1900,DateofCollection,Mosquito,No,Central,Onondaga,Cicero,76
+9/4/2015,DateOfOnset,Human,No,Central,Onondaga,Clay,1
+1/4/1900,DateofCollection,Mosquito,No,Central,Onondaga,Clay,2
+9/10/2014,DateOfDeath,Horse,No,Central,Oswego,Constantia,1
+1/8/1900,DateofCollection,Mosquito,No,Central,Oswego,Constantia,9
+8/27/2019,DateOfOnset,Horse,No,Western,Ontario,Farmington,1
+9/13/2019,DateOfOnset,Emu,Unknown,Southern,Sullivan,Forestburgh,1
+9/17/2014,DateOfDeath,Horse,Unknown,Western,Wayne,Galen,1
+9/12/2015,DateOfDeath,Horse,Unknown,Western,Wayne,Galen,1
+10/21/2016,DateOfDeath,Horse,No,Western,Wayne,Galen,1
+1/9/1900,DateofCollection,Mosquito,No,Central,Oswego,Hastings,51
+9/22/2015,DateOfOnset,Horse,No,Northern,St Lawrence,Hopkinton,1
+9/7/2013,DateOfDeath,Horse,Unknown,Western,Chautauqua,Kiantone,1
+1/13/1900,DateofCollection,Mosquito,No,Western,Chautauqua,Kiantone,34
+8/22/2016,DateOfOnset,horse,No,Southern,Ulster,Kingston,1
+9/23/2019,DateOfOnset,Horse,No,Central,Oneida,Lee,1
+9/6/2014,DateOfOnset,Horse,No,Central,Madison,Lenox,1
+9/30/2014,DateOfOnset,Horse,By Owner,Northern,St Lawrence,Lisbon,1
+1/5/1900,DateofCollection,Mosquito,No,Central,Onondaga,Lysander,3
+9/21/2015,DateOfDeath,Horse,No,Western,Wayne,Macedon,1
+1/10/1900,DateofCollection,Mosquito,No,Central,Oswego,New Haven,7
+1/15/1900,DateofCollection,Mosquito,No,Southern,Rockland,Orangetown,1
+8/27/2014,DateOfDeath,Horse,Unknown,Central,Oswego,Palermo,1
+8/22/2019,DateOfOnset,Goat,No,Central,Oswego,Palermo,1
+1/11/1900,DateofCollection,Mosquito,No,Central,Oswego,Palermo,6
+10/12/2019,DateOfOnset,Horse,No,Western,Cattaraugus,Randolph,1
+1/16/1900,DateofCollection,Mosquito,No,Maritime,Suffolk,Riverhead,13
+9/2/2014,DateOfOnset,Horse,No,Western,Wayne,Rose,1
+9/4/2014,DateOfOnset,Horse,No,Western,Wayne,Rose,1
+9/6/2014,DateOfOnset,Horse,No,Western,Wayne,Rose,1
+8/24/2015,DateOfOnset,Human,No,Central,Onondaga,Salina,1
+1/6/1900,DateofCollection,Mosquito,No,Central,Onondaga,Salina,1
+8/1/2014,DateOfOnset,Horse,By Owner,Central,Oswego,Schroeppel,1
+10/13/2018,DateOfOnset,Horse,No,Western,Chautauqua,Sherman,1
+1/1/1900,DateofCollection,Mosquito,No,Central,Madison,Sullivan,24
+9/8/2014,DateOfDeath,Horse,No,Central,Oneida,Trenton,1
+9/13/2014,DateOfOnset,Human,No,Central,Onondaga,Van Buren,1
+10/10/2014,NotReported,Horse,No,Central,Oneida,Verona,1
+1/2/1900,DateofCollection,Mosquito,No,Central,Oneida,Verona,1
+9/13/2014,NotReported,Horse,No,Central,Oneida,Vienna,1
+1/14/1900,DateofCollection,Mosquito,No,Southern,Orange,Warwick,1
+9/1/2015,DateOfOnset,Horse,Unknown,Northern,Franklin,Waverly,1
+9/27/2017,DateOfOnset,Horse,No,Central,Oswego,West Monroe,1
+8/8/2018,DateOfOnset,Horse,No,Central,Oswego,West Monroe,1
+8/10/2019,DateOfOnset,Horse,By Owner,Central,Oswego,West Monroe,1
+1/12/1900,DateofCollection,Mosquito,No,Central,Oswego,West Monroe,95
+10/3/2018,DateOfDeath,Horse,No,Central,Oswego,Williamstown,1
+10/1/2019,DateOfOnset,Horse,No,Central,Oswego,Williamstown,1

@@ -1,0 +1,501 @@
+﻿OID_,StreetAddress,City,State,ZipCode,County
+52928108,21 Park Ave,Falconer,NY,14733,Chautauqua
+52944769,247 Cherry Hill Rd,Ashville,NY,14710,Chautauqua
+52956948,6240 Colt Rd,Brocton,NY,14716,Chautauqua
+52971005,271 Lakeshore Dr E,Dunkirk,NY,14048,Chautauqua
+52976141,111 Prospect St,Fredonia,NY,14063,Chautauqua
+52980343,3585 New Rd,Dunkirk,NY,14048,Chautauqua
+53005409,8420 Colvin Rd,Cattaraugus,NY,14719,Cattaraugus
+53006133,129 Leavenworth St,Cattaraugus,NY,14719,Cattaraugus
+53010925,11259 Billion Dollar Hwy,Randolph,NY,14772,Cattaraugus
+53023771,5705 Bonn Ridge East,Great Valley,NY,14741,Cattaraugus
+53033099,74 Church St,Springville,NY,14141,Erie
+53040227,8080 Cole Rd,Colden,NY,14033,Erie
+53044379,19 North Main St,Holland,NY,14080,Erie
+53055057,11517 Lapp Rd,Fillmore,NY,14735,Allegany
+53074005,24 Tracy Ave,Belmont,NY,14813,Allegany
+53077703,5560 Jericho Hill Rd,Alfred Station,NY,14803,Allegany
+53083516,25 W Greenwood St,Andover,NY,14806,Allegany
+53097885,1805 Stardust Ln,Olean,NY,14760,Cattaraugus
+53110973,5007 Route 417,Allegany,NY,14706,Cattaraugus
+53118415,264 Decatur St,Corning,NY,14830,Steuben
+53119192,172 Reynolds Ave,Corning,NY,14830,Steuben
+53122224,254 First St-East,Corning,NY,14830,Steuben
+53130494,344 Victory Hwy,Painted Post,NY,14870,Steuben
+53138168,3 E Pulteney Sq,Bath,NY,14810,Steuben
+53162032,9260 County Route 9,Cohocton,NY,14826,Steuben
+53175076,7080 St Rt 15A,Springwater,NY,14560,Ontario
+53186699,735 East Lake Rd,Penn Yan,NY,14527,Yates
+53188485,3858 Keysor Rd,Naples,NY,14512,Yates
+53196189,873 Ridge Rd,Penn Yan,NY,14527,Yates
+53229012,138 Eastview Dr,Horseheads,NY,14845,Chemung
+53237583,119 Prescott Ave,Elmira,NY,14903,Chemung
+53240285,99 Country Club Dr,Elmira,NY,14905,Chemung
+53241682,806 West Church St,Elmira,NY,14905,Chemung
+53264514,126 Carter Crk,Newfield,NY,14867,Tompkins
+53273623,197 Muzzy Rd,Ithaca,NY,14850,Tompkins
+53308678,768 Bostwick Rd,Ithaca,NY,14850,Tompkins
+53327552,67 Old Peruville Rd,Groton,NY,13073,Tompkins
+53331573,15 Keith Ln,Dryden,NY,13053,Tompkins
+53331933,1784 Meeting House Rd,Cortland,NY,13045,Cortland
+53361676,5900 Commane Rd,LaFayette,NY,13084,Onondaga
+53372010,214 Reed Ave,Syracuse,NY,13207,Onondaga
+53377340,3954 Derby Dr,Syracuse,NY,13215,Onondaga
+53382009,120 Manchester Rd,Syracuse,NY,13219,Onondaga
+53386297,209 Cogswell Ave,Syracuse,NY,13209,Onondaga
+53388183,17 Kings Ct,Camillus,NY,13031,Onondaga
+53392384,204 Peterson Dr,Camillus,NY,13031,Onondaga
+53395084,3173 Warners Rd,Warners,NY,13164,Onondaga
+53396000,103 Waterbridge Ter,Camillus,NY,13031,Onondaga
+53415051,14 Walnut St,Auburn,NY,13021,Cayuga
+53415463,45 Elizabeth St,Auburn,NY,13021,Cayuga
+53438993,8991 North Seneca St,Weedsport,NY,13166,Cayuga
+53443155,2 Standard Woods,Auburn,NY,13021,Cayuga
+53450035,8 Marion Gardens Ter,Baldwinsville,NY,13027,Onondaga
+53451244,110 Commane Rd,Baldwinsville,NY,13027,Onondaga
+53473347,3769 Dean Rd Ext,Marion,NY,14505,Wayne
+53480631,116 Prospect St,Newark,NY,14513,Wayne
+53494794,2861 Pre-Emption St,Waterloo,NY,13165,Seneca
+53497139,551 Wat-Gen Rd,Waterloo,NY,13165,Seneca
+53521976,104 Camelot Dr,Canandaigua,NY,14424,Ontario
+53560535,5341 Creekside Ln,Geneseo,NY,14454,Livingston
+53576482,255 Humphrey Rd,Scottsville,NY,14546,Monroe
+53587829,36 Green Acorn Ln,Henrietta,NY,14467,Monroe
+53597958,51 Nightfrost Ln,Henrietta,NY,14467,Monroe
+53601947,53 Birchmount Cir,West Henrietta,NY,14586,Monroe
+53622466,21 Lisand Dr,Fairport,NY,14450,Monroe
+53631298,10 Canton Mdw,Fairport,NY,14450,Monroe
+53650775,31 Hotchkiss Cir,Penfield,NY,14526,Monroe
+53658892,810 Gleason Cir,East Rochester,NY,14445,Monroe
+53669960,1225 Park Ave,Rochester,NY,14610,Monroe
+53684099,884 Bay St,Rochester,NY,14609,Monroe
+53695294,36 Rossman Dr,Webster,NY,14580,Monroe
+53696370,5 Bethnal Grn,Rochester,NY,14625,Monroe
+53700692,52 Watersong Trail,Webster,NY,14580,Monroe
+53701187,934 Summitville Dr,Webster,NY,14580,Monroe
+53707634,756 Mariner Cir,Webster,NY,14580,Monroe
+53725284,1105 Titus Ave,Rochester,NY,14617,Monroe
+53731816,109 Maplehurst Rd,Rochester,NY,14617,Monroe
+53736856,267 Woodcrest Rd,Rochester,NY,14616,Monroe
+53752932,751 Dewey Ave,Rochester,NY,14613,Monroe
+53756091,557 Glide St,Rochester,NY,14606,Monroe
+53756902,204 Otis St,Rochester,NY,14606,Monroe
+53759779,289 Colvin St,Rochester,NY,14611,Monroe
+53770039,170 Fulton Ave,Rochester,NY,14613,Monroe
+53787294,490 Norman Dr,Rochester,NY,14609,Monroe
+53821113,550 Clarissa St,Rochester,NY,14608,Monroe
+53823611,277 Sanford St,Rochester,NY,14620,Monroe
+53828483,11 Goebel Pl,Rochester,NY,14620,Monroe
+53828704,425 Gregory St,Rochester,NY,14620,Monroe
+53839007,18 Clintwood Dr,Rochester,NY,14620,Monroe
+53859344,41 Hamlet Ct,Rochester,NY,14624,Monroe
+53938765,83 Carrie Marie Ln,Hilton,NY,14468,Monroe
+53946366,1035 Wickerton Ln,Webster,NY,14580,Monroe
+53949182,1224ImperialDr,Webster,NY,14580,Monroe
+53951138,328 Little John Way,Webster,NY,14580,Monroe
+53955513,1526 Route 404,Webster,NY,14580,Monroe
+53978639,1024 West Ave,Medina,NY,14103,Orleans
+53992261,111 Hidden Creek Ln,Hamlin,NY,14464,Monroe
+54008646,1020 Ladue Rd,Brockport,NY,14420,Monroe
+54049706,19 Walnut St,Attica,NY,14011,Wyoming
+54054611,3666 West Main St,Batavia,NY,14020,Genesee
+54064807,3532 Route 77,Varysburg,NY,14167,Wyoming
+54070166,1580 Rice Rd,Elma,NY,14059,Erie
+54078678,1429 Quaker Rd,Orchard Park,NY,14127,Erie
+54086229,4571 Hidden Hollow Rd,Hamburg,NY,14075,Erie
+54111303,967 Ridge Rd,Buffalo,NY,14218,Erie
+54114221,58 Mosside Loop,Buffalo,NY,14224,Erie
+54126915,75 Princeton Pl,Buffalo,NY,14210,Erie
+54139540,375 West Ave,Buffalo,NY,14224,Erie
+54143528,60 Industrial Pkwy,Buffalo,NY,14227,Erie
+54145016,205 Towers Blvd,Buffalo,NY,14227,Erie
+54145662,11 Cherbourg Dr W,Buffalo,NY,14227,Erie
+54164775,6026 Broadway St,Lancaster,NY,14086,Erie
+54164887,5953 Hwy 20,Lancaster,NY,14086,Erie
+54167295,30 Saint Anthony St,Lancaster,NY,14086,Erie
+54168757,5302 Broadway St,Lancaster,NY,14086,Erie
+54177147,75 Pheasant Run Ln,Lancaster,NY,14086,Erie
+54177500,244 Broezel Ave,Lancaster,NY,14086,Erie
+54177709,55 Avenue B,Lancaster,NY,14086,Erie
+54187499,382 South Creek Dr,Depew,NY,14043,Erie
+54191440,103 Bissell Ave,Depew,NY,14043,Erie
+54196460,244 Nagel Dr,Buffalo,NY,14225,Erie
+54207621,188 Ludington St,Buffalo,NY,14206,Erie
+54212832,50 Randolph Ave,Buffalo,NY,14211,Erie
+54216262,60 Kilhoffer St,Buffalo,NY,14211,Erie
+54218048,210 Cornwall Ave,Buffalo,NY,14215,Erie
+54221476,89 Wilkes Ave,Buffalo,NY,14215,Erie
+54224991,37 Victoria Blvd,Buffalo,NY,14225,Erie
+54250220,655 Le Brun Dr,Buffalo,NY,14226,Erie
+54261845,175 Lehn Springs Dr,Buffalo,NY,14221,Erie
+54271624,102 Hickory Hill Rd,Buffalo,NY,14221,Erie
+54279219,Beechwood Continuing Care,Buffalo,NY,14221,Erie
+54279371,50 Stahl Rd,Getzville,NY,14068,Erie
+54281483,95 West Maplemere Rd,Buffalo,NY,14221,Erie
+54303245,3275 Sweet Home Rd,Buffalo,NY,14228,Erie
+54328874,4480 Shisler Rd,Clarence,NY,14031,Erie
+54334088,12228 Clarence Center Rd,Akron,NY,14001,Erie
+54335449,11314 Main St,Clarence,NY,14031,Erie
+54344021,31 Pound St,Lockport,NY,14094,Niagara
+54466639,1 Elmwood Park,Tonawanda,NY,14150,Erie
+54467353,22 Hill Pla,Tonawanda,NY,14150,Erie
+54474109,2059 Colvin Blvd,Tonawanda,NY,14150,Erie
+54493087,320 Hinds St,Tonawanda,NY,14150,Erie
+54510521,168 Great Arrow Ave,Buffalo,NY,14207,Erie
+54552075,415 Parkside Ave,Buffalo,NY,14216,Erie
+54575731,320 Herman St,Buffalo,NY,14211,Erie
+54585235,439 Adams St,Buffalo,NY,14212,Erie
+54588134,276 Grape St,Buffalo,NY,14204,Erie
+54590461,447 Madison Stre,Buffalo,NY,14212,Erie
+54611841,779 Elmwood Ave,Buffalo,NY,14222,Erie
+54616077,19 Hoyt St,Buffalo,NY,14213,Erie
+54625226,107 Maryland St,Buffalo,NY,14201,Erie
+54658778,3741 Lakeshore Rd,Buffalo,NY,14219,Erie
+54663225,5206 Electric Ave,Hamburg,NY,14075,Erie
+54671338,6728 Taylor Rd,Hamburg,NY,14075,Erie
+54674781,2129 Shadow Ln,Lake View,NY,14085,Erie
+54705885,26265 NY 3,Watertown,NY,13601,Jefferson
+54710669,691 Hamilton St S,Watertown,NY,13601,Jefferson
+54719002,16722 County Route 156,Watertown,NY,13601,Jefferson
+54726933,3569 Woodpecker Ln,Mannsville,NY,13661,Jefferson
+54730326,24985 Co Rte 189,Rodman,NY,13682,Jefferson
+54759307,99 East Oneida St,Oswego,NY,13126,Oswego
+54769629,614 Cayuga St,Fulton,NY,13069,Oswego
+54787171,323 Idlewood Blvd,Baldwinsville,NY,13027,Onondaga
+54806996,654 Pangborn Rd,Central Square,NY,13036,Oswego
+54820526,109 Onondaga Ave,Canastota,NY,13032,Madison
+54841123,204 Waterbury Dr,Syracuse,NY,13212,Onondaga
+54857377,336 Long Branch Cir,Liverpool,NY,13090,Onondaga
+54868492,1100 Vine St,Liverpool,NY,13088,Onondaga
+54942818,127 Cheney St,Syracuse,NY,13207,Onondaga
+54946041,150 Bishop Ave,Syracuse,NY,13207,Onondaga
+54951608,405 Small Rd,Syracuse,NY,13210,Onondaga
+54965325,4874 Huntwood Path,Manlius,NY,13104,Onondaga
+54985109,4573 Pauli Dr,Manlius,NY,13104,Onondaga
+54991318,3646 Mutton Hill Rd,Cazenovia,NY,13035,Madison
+54992390,5666 Streeter Rd,Munnsville,NY,13409,Madison
+55007689,2579 N Rd,Vernon Center,NY,13477,Oneida
+55031132,9201 Kinlock Point Rd,Canastota,NY,13032,Madison
+55036239,9610 Mill St,Camden,NY,13316,Oneida
+55037214,11001 Taberg Florence Rd,Camden,NY,13316,Oneida
+55046188,7077 Stearns Rd,Rome,NY,13440,Oneida
+55051027,11252 O'Brien Rd,Remsen,NY,13438,Oneida
+55060619,3656 Davis Bridge Rd,Port Leyden,NY,13433,Lewis
+55062137,2154 State Route 12D,Boonville,NY,13309,Lewis
+55067229,5306 Pkwy Dr,Lowville,NY,13367,Lewis
+55075654,28400 County Route 69,Copenhagen,NY,13626,Jefferson
+55083490,4255 Factory Rd,Natural Bridge,NY,13665,Lewis
+55091472,227 Crosby Blvd,Old Forge,NY,13420,Herkimer
+55095567,42 Underwood Rd,Tupper Lake,NY,12986,Franklin
+55121717,7 Hepburn St,Norfolk,NY,13667,St. Lawrence
+55121911,372 CR 38,Norfolk,NY,13667,St. Lawrence
+55125776,559 Swan St,Potsdam,NY,13676,St. Lawrence
+55126320,119StateHighway345,Potsdam,NY,13676,St. Lawrence
+55134077,90 Judson St,Canton,NY,13617,St. Lawrence
+55134655,20 Park St,Canton,NY,13617,St. Lawrence
+55148547,295 Pleasant Lake Rd,Gouverneur,NY,13642,St. Lawrence
+55150515,4 Mink Is,Hammond,NY,13646,St. Lawrence
+55152726,22 Rogers Rd,Brier Hill,NY,13614,St. Lawrence
+55172270,90 East Hatfield St,Massena,NY,13662,St. Lawrence
+55194835,1303 Plank Rd,Ellenburg Depot,NY,12935,Clinton
+55200505,965 Hurricane Rd,Keene,NY,12942,Essex
+55201595,70 Sheldrake Rd,Au Sable Forks,NY,12912,Essex
+55207607,12 Beach St,Keeseville,NY,12944,Essex
+55215082,4897 US Ave,Plattsburgh,NY,12903,Clinton
+55236142,1460 Alder bend Rd,Altona,NY,12910,Clinton
+55239619,189 Esker Rd,West Chazy,NY,12992,Clinton
+55257298,1094 County Route 68,Eagle Bridge,NY,12057,Washington
+55263912,6 Vista Way,Valley Falls,NY,12185,Rensselaer
+55268711,49 Plank Rd,Troy,NY,12182,Rensselaer
+55277125,454 9th Ave,Troy,NY,12182,Rensselaer
+55285541,24 Chestnut St,Cohoes,NY,12047,Albany
+55288137,5 Whitehall St,Cohoes,NY,12047,Albany
+55288609,100 N Mohawk St Apt 308,Cohoes,NY,12047,Albany
+55321714,788 Stillwater Bridge Rd,Schaghticoke,NY,12154,Rensselaer
+55333917,Loughberry Mobile Home Park,Saratoga Springs,NY,12866,Saratoga
+55354129,20 Mahogany Rdg,Gansevoort,NY,12831,Saratoga
+55356751,105 Spier Falls Rd,Gansevoort,NY,12831,Saratoga
+55361380,1 South Delaware Ave,Glens Falls,NY,12801,Warren
+55383286,31 Hiland Springs Way,Queensbury,NY,12804,Warren
+55386200,1400 US-9,Lake George,NY,12845,Warren
+55388412,16 Homer Ave,Queensbury,NY,12804,Warren
+55388710,75 Webster Ave,Glens Falls,NY,12801,Warren
+55396240,32 Applehouse Ln,Queensbury,NY,12804,Warren
+55409510,3233 County Route 30,Salem,NY,12865,Washington
+55419836,5325 Lake Shore Dr,Bolton Landing,NY,12814,Warren
+55424027,2 Cranberry Ln,Hague,NY,12836,Warren
+55425033,1009 New Hague Rd,Hague,NY,12836,Warren
+55425874,44ChamplainAve,Ticonderoga,NY,12883,Essex
+55449271,359 Military Rd,Northville,NY,12134,Saratoga
+55458535,4599 9N,Corinth,NY,12822,Saratoga
+55459023,26 Heath Rd,Corinth,NY,12822,Saratoga
+55463223,59 Sinclair Rd,Northville,NY,12134,Saratoga
+55472075,3484 Boy Haven Rd,Middle Grove,NY,12850,Saratoga
+55487291,70 Cardinal Ln,Ballston Spa,NY,12020,Saratoga
+55524167,12 Espen Pl,Schenectady,NY,12309,Schenectady
+55529118,96 Alpine Dr,Latham,NY,12110,Albany
+55530606,342 Vly Rd,Schenectady,NY,12309,Albany
+55533522,738 Bobby Ct,Schenectady,NY,12309,Schenectady
+55534478,325 Ferris Rd,Schenectady,NY,12304,Schenectady
+55543973,1207 Keyes Ave,Schenectady,NY,12309,Schenectady
+55549267,1634 Ave A,Schenectady,NY,12308,Schenectady
+55560330,562 Crane St,Schenectady,NY,12303,Schenectady
+55568611,43 Western Pkwy,Schenectady,NY,12304,Schenectady
+55570781,2068 Caldicott Rd,Schenectady,NY,12303,Schenectady
+55577798,2142 Oaklawn Ave,Schenectady,NY,12306,Schenectady
+55625659,24 East Blvd,Gloversville,NY,12078,Fulton
+55638743,74 Main St,Fultonville,NY,12072,Montgomery
+55643071,357 Sharon Hill Rd,Sharon Springs,NY,13459,Schoharie
+55674167,936 Mary St,Utica,NY,13501,Oneida
+55681753,611 3rd Avenue Ext,Frankfort,NY,13340,Herkimer
+55687881,20 Central Ave,Ilion,NY,13357,Herkimer
+55706252,1198 McKoons Rd,Richfield Springs,NY,13439,Herkimer
+55728971,2 Jones Ave,Whitesboro,NY,13492,Oneida
+55748340,116 Upperville Back Rd,Smyrna,NY,13464,Chenango
+55757837,564 Hathaway Rd,Laurens,NY,13796,Otsego
+55766475,2049 County Highway 33,Cooperstown,NY,13326,Otsego
+55766760,448 Pollack Mountain Rd,Cherry Valley,NY,13320,Otsego
+55771863,1208 Sheehan Rd,East Meredith,NY,13757,Delaware
+55784286,32 Tuscarora Dr,Oneonta,NY,13820,Otsego
+55797487,2606 Weaver Hollow Rd,Margaretville,NY,12455,Delaware
+55810610,166 Main St,Stamford,NY,12167,Delaware
+55827789,122 Sunny Knolls Ln,Schoharie,NY,12157,Schoharie
+55829852,4080 State Route 30,Middleburgh,NY,12122,Schoharie
+55831430,223 Fulton Hill Rd,Richmondville,NY,12149,Schoharie
+55835605,703 Sickle Hill Rd,Berne,NY,12023,Albany
+55837089,283 Maranatha Way,Delanson,NY,12053,Schenectady
+55860210,11 Stirrup Dr,Albany,NY,12205,Albany
+55875547,281 Manning Blvd,Albany,NY,12206,Albany
+55883744,59 Woodlake Rd,Albany,NY,12203,Albany
+55896999,276 Woodlawn Ave,Albany,NY,12208,Albany
+55903896,8 Groesbeck Pl,Delmar,NY,12054,Albany
+55906347,94 Fernbank Ave,Delmar,NY,12054,Albany
+55908954,39 Grafton Rd,Glenmont,NY,12077,Albany
+55920287,4 Powell Hill Rd,Ravena,NY,12143,Albany
+55924335,3572\ Route 81,Greenville,NY,12083,Greene
+55934535,356 Vernal Butler Rd,Cairo,NY,12413,Greene
+55943525,453 Hamburg Rd,Catskill,NY,12414,Greene
+55985104,74 Tarigo High Rd,Fleischmanns,NY,12430,Delaware
+56001022,285 Cherry Hill Rd,Accord,NY,12404,Ulster
+56010128,119 Decker Ave,Kingston,NY,12401,Ulster
+56016020,Riverview Condos 121,Port Ewen,NY,12466,Ulster
+56033003,54 Ruby Rd,Kingston,NY,12401,Ulster
+56069108,136 Thendara Ln,Poughkeepsie,NY,12603,Dutchess
+56096147,124 Morgan Ct,Poughkeepsie,NY,12601,Dutchess
+56105358,74 Bellview Rd,Highland,NY,12528,Ulster
+56123032,407 Forrest Rd,Wallkill,NY,12589,Ulster
+56123762,404 Cologne Ave,Wallkill,NY,12589,Ulster
+56138498,76 Grove St,Newburgh,NY,12550,Orange
+56144437,150 Dubois St,Newburgh,NY,12550,Orange
+56147383,324 Grand St,Newburgh,NY,12550,Orange
+56173374,1 Scofield Hts,Poughkeepsie,NY,12603,Dutchess
+56179069,21 Cannon Ln,Hopewell Junction,NY,12533,Dutchess
+56203970,11 Treehaven Ln,New Windsor,NY,12553,Orange
+56225592,52 Jefferson Oval,Yorktown Heights,NY,10598,Westchester
+56232589,1 Odessa Rd,Mahopac,NY,10541,Putnam
+56238285,956 Peekskill Hollow Rd,Putnam Valley,NY,10579,Putnam
+56240105,42 Curry Rd,Mahopac,NY,10541,Putnam
+56244046,12 Gleneida Ct,Carmel,NY,10512,Putnam
+56258814,29 Creekside Rd,Hopewell Junction,NY,12533,Dutchess
+56280868,3142 Pleasant Ridge Rd,Wingdale,NY,12594,Dutchess
+56288008,3200 Franklin Ave,Millbrook,NY,12545,Dutchess
+56289915,19 Burdick Way,Stanfordville,NY,12581,Dutchess
+56300578,4 Starling Rd,Craryville,NY,12521,Columbia
+56316249,51 Green Acres Rd,Hudson,NY,12534,Columbia
+56318689,1570 Route 9,Stuyvesant,NY,12173,Columbia
+56346209,3 Jerold Dr,East Greenbush,NY,12061,Rensselaer
+56365104,2 Thurlow Ter,Albany,NY,12203,Albany
+56374629,156 Jay St,Albany,NY,12210,Albany
+56380645,40 South Pearl St,Albany,NY,12207,Albany
+56389646,1283 Red Mill Rd,Rensselaer,NY,12144,Rensselaer
+56391155,476 North Greenbush Rd,Rensselaer,NY,12144,Rensselaer
+56417314,11 Broadway,Latham,NY,12110,Albany
+56429199,1003 23d St,Watervliet,NY,12189,Albany
+56443858,278 Pawling Ave,Troy,NY,12180,Rensselaer
+56453251,1301 Brianna Blvd,Troy,NY,12180,Rensselaer
+56458799,58 Streamview Ln,Wynantskill,NY,12198,Rensselaer
+56459288,2 Colehamer Ave,Troy,NY,12180,Rensselaer
+56477932,229 Milltown Rd,Brewster,NY,10509,Putnam
+56479285,1108 Somerset Knl,Brewster,NY,10509,Putnam
+56483454,22 Center St,Brewster,NY,10509,Putnam
+56499368,80 Kensington La,Yorktown Heights,NY,10598,Westchester
+56499731,1847 Hanover St,Yorktown Heights,NY,10598,Westchester
+56507776,31 Huntville Rd,Katonah,NY,10536,Westchester
+56519542,147 Freya Rd,Rocky Point,NY,11778,Suffolk
+56519930,41 Northcountry Rd,Shoreham,NY,11786,Suffolk
+56520642,26 Briarcliff Rd,Shoreham,NY,11786,Suffolk
+56522111,6411 Route 25A,Wading River,NY,11792,Suffolk
+56529203,112 Woodlot Rd,Ridge,NY,11961,Suffolk
+56534456,76 Queen Dr,Sound Beach,NY,11789,Suffolk
+56539643,43 Casey Ln,Mount Sinai,NY,11766,Suffolk
+56586293,74 New Mill Rd,Smithtown,NY,11787,Suffolk
+56609220,194 Strathmore Gate Dr,Stony Brook,NY,11790,Suffolk
+56611630,2 Arbor Field Way,Lake Grove,NY,11755,Suffolk
+56630664,107 Smithfield Cir,Nesconset,NY,11767,Suffolk
+56634281,162 Village Dr,Hauppauge,NY,11788,Suffolk
+56635181,47 Feller Dr,Central Islip,NY,11722,Suffolk
+56636998,16 Nicoll Ave,Central Islip,NY,11722,Suffolk
+56646014,312 Locust Ave,Oakdale,NY,11769,Suffolk
+56662326,865 Broadway Ave,Holbrook,NY,11741,Suffolk
+56684018,252 Estelle Ave,Holbrook,NY,11741,Suffolk
+56690183,3 Melvin Ct,Farmingville,NY,11738,Suffolk
+56691174,23 Henry Ave,Selden,NY,11784,Suffolk
+56693165,146 Eastwood Blvd,Centereach,NY,11720,Suffolk
+56703868,162 Mooney Pond Rd,Selden,NY,11784,Suffolk
+56737765,511 Mastic Rd,Mastic Beach,NY,11951,Suffolk
+56756470,6 Phyllis Dr,Mastic Beach,NY,11951,Suffolk
+56783025,2A North Quarter Rd,Westhampton,NY,11977,Suffolk
+56786820,7 Bay Ave,East Quogue,NY,11942,Suffolk
+56790110,57 West Bay Ave,Hampton Bays,NY,11946,Suffolk
+56799661,836 Hill St,Southampton,NY,11968,Suffolk
+56802566,104 Washington Hts,Hampton Bays,NY,11946,Suffolk
+56816314,25 Prospect Pl,Riverhead,NY,11901,Suffolk
+56835688,3655 Pequash Ave,Cutchogue,NY,11935,Suffolk
+56836926,1435 Wells Rd,Peconic,NY,11958,Suffolk
+56844685,8 Post Pl,Southampton,NY,11968,Suffolk
+56873422,3 E Cross Highway,Amagansett,NY,11930,Suffolk
+56878440,90 Hands Creek Rd,East Hampton,NY,11937,Suffolk
+56879863,153 New Town Ln,East Hampton,NY,11937,Suffolk
+56915971,34 Evergreen Ave,Brentwood,NY,11717,Suffolk
+56916124,88W Wood Dr,Brentwood,NY,11717,Suffolk
+56930573,33 North Clinton Ave,Bay Shore,NY,11706,Suffolk
+56956788,33 Leo Ln,Deer Park,NY,11729,Suffolk
+56965867,1 Leroy Ave,Brentwood,NY,11717,Suffolk
+57005061,475 Walt Whitman Rd,Melville,NY,11747,Suffolk
+57018629,96 E Booker Av,Wyandanch,NY,11798,Suffolk
+57030611,650 Straight Path,West Babylon,NY,11704,Suffolk
+57037995,64 Stratford Green,Farmingdale,NY,11735,Nassau
+57062840,188 N Iowa Ave,Massapequa,NY,11758,Nassau
+57130917,4595 Merrick Rd,Massapequa,NY,11758,Nassau
+57133686,15 Greatwater Ave,Massapequa,NY,11758,Nassau
+57146620,433 Philadelphia Ave,Massapequa Park,NY,11762,Nassau
+57148010,444 Second Ave,Massapequa Park,NY,11762,Nassau
+57154477,41 Penndale Dr,Amityville,NY,11701,Suffolk
+57159350,30 Kensington Ct,Copiague,NY,11726,Suffolk
+57170397,75 Cassata Ct,West Babylon,NY,11704,Suffolk
+57177967,97 Texas St,Lindenhurst,NY,11757,Suffolk
+57209464,1444 Tadmor St,Merrick,NY,11566,Nassau
+57214667,813 Davis Ave,Uniondale,NY,11553,Nassau
+57222053,1236 Webber Ave,Hempstead,NY,11550,Nassau
+57225717,100 Greystone Rd,Rockville Centre,NY,11570,Nassau
+57230738,180 Wilson Pl,Freeport,NY,11520,Nassau
+57244341,2993 Davis Pl,Oceanside,NY,11572,Nassau
+57254560,60 Grand Ave,Rockville Centre,NY,11570,Nassau
+57257322,30 Lenox Rd,Rockville Centre,NY,11570,Nassau
+57268271,18 Carolina Ave,Island Park,NY,11558,Nassau
+57268559,44 Lorraine Rd,Island Park,NY,11558,Nassau
+57286809,664 Broadway,Long Beach,NY,11561,Nassau
+57391321,64 Marguerite Ave,Elmont,NY,11003,Nassau
+57396389,776 Karoline Ave,Elmont,NY,11003,Nassau
+57423010,1011 Hazel Pl,Woodmere,NY,11598,Nassau
+57428530,7 Berry St,Lynbrook,NY,11563,Nassau
+57433811,7 Melrose St,Valley Stream,NY,11580,Nassau
+57440152,30 Park Pl,Lynbrook,NY,11563,Nassau
+57445219,38 Church St,Malverne,NY,11565,Nassau
+57449345,84 Franklin Ave,Valley Stream,NY,11580,Nassau
+57471756,806 Iris Pl,West Hempstead,NY,11552,Nassau
+57504052,82 Sherman Ave,Williston Park,NY,11596,Nassau
+57505403,392 Marcellus Rd,Mineola,NY,11501,Nassau
+57511496,15 Kensington Rd,Garden City,NY,11530,Nassau
+57527945,249 Marcus Ave,New Hyde Park,NY,11040,Nassau
+57534330,78 Reed Dr,Roslyn,NY,11576,Nassau
+57535014,132 Crescent Dr,Albertson,NY,11507,Nassau
+57538995,36 Colony Ln,Manhasset,NY,11030,Nassau
+57568497,136 Locust St,Floral Park,NY,11001,Nassau
+57658472,95 Shore Rd,Manhasset,NY,11030,Nassau
+57670353,131 Hill St,New Rochelle,NY,10801,Westchester
+57688325,27 Stephen Oval,Glen Cove,NY,11542,Nassau
+57697356,40 East Ave,Glen Cove,NY,11542,Nassau
+57700909,171 High Farms Rd,Glen Head,NY,11545,Nassau
+57702639,1 Washington Ave,Glen Head,NY,11545,Nassau
+57710883,80 Duck Pond Rd,Manhasset,NY,11030,Nassau
+57712111,2 Main St,Roslyn,NY,11576,Nassau
+57723868,27 Cromwell Dr,Carle Place,NY,11514,Nassau
+57731092,535 Old Country Rd,Westbury,NY,11590,Nassau
+57739706,40 Beech Ln,Hicksville,NY,11801,Nassau
+57741548,231 Eighth St,Hicksville,NY,11801,Nassau
+57749564,109 Celia Dr,Jericho,NY,11753,Nassau
+57751627,18 Clinton Ln,Jericho,NY,11753,Nassau
+57765690,267 Fox Hollow Rd,Woodbury,NY,11797,Nassau
+57786017,62 E5th St,Huntington Station,NY,11746,Suffolk
+57786204,62 Leyden St,Huntington Station,NY,11746,Suffolk
+57797387,7 Arnold Dr,Huntington,NY,11743,Suffolk
+57812830,491 Westchester Ave,Port Chester,NY,10573,Westchester
+57823203,66 Orchard Ave,Rye,NY,10580,Westchester
+57838347,554 Claflin Ave,Mamaroneck,NY,10543,Westchester
+57840025,4 Gerlach Pl,Larchmont,NY,10538,Westchester
+57854621,16 Locust Ave,New Rochelle,NY,10801,Westchester
+57857927,23 Watkins Pl,New Rochelle,NY,10801,Westchester
+57860628,775 Main St,New Rochelle,NY,10805,Westchester
+57875519,51 Tuckahoe Ave,Eastchester,NY,10709,Westchester
+57893284,6 Monroe Dr,White Plains,NY,10605,Westchester
+57903216,147 Orawaupum St,White Plains,NY,10606,Westchester
+57913083,8 Eas Hartsdale Ave,Hartsdale,NY,10530,Westchester
+57920691,95 Ferris Ave,White Plains,NY,10603,Westchester
+57938476,1515 Old Orchard St,White Plains,NY,10603,Westchester
+57942813,59 Avon Cir,Port Chester,NY,10573,Westchester
+57944230,26 University Pl,Port Chester,NY,10573,Westchester
+57953191,134 Bradhurst Ave,Hawthorne,NY,10532,Westchester
+57955215,11 Hopper St,Pleasantville,NY,10570,Westchester
+57981078,47 Yale Ave,Ossining,NY,10562,Westchester
+57982082,6 Maple Pl,Ossining,NY,10562,Westchester
+58004519,7 Mark Ln,New City,NY,10956,Rockland
+58021190,69 Pascack Rd S,Nanuet,NY,10954,Rockland
+58066004,42 E Ardsley Ave,Irvington,NY,10533,Westchester
+58066068,78 Langdon Ave,Dobbs Ferry,NY,10522,Westchester
+58071217,115 De Haven Dr,Yonkers,NY,10703,Westchester
+58093655,1745 Central Park Ave,Yonkers,NY,10710,Westchester
+58094144,5 Manor Dr,Yonkers,NY,10710,Westchester
+58104367,270 Bronxville Rd,Bronxville,NY,10708,Westchester
+58124132,238 Third Ave S,Mount Vernon,NY,10550,Westchester
+58143618,372 Midland Ave,Yonkers,NY,10704,Westchester
+58144703,22 Gaffney Pl,Yonkers,NY,10704,Westchester
+58145531,234 Trenchard St,Yonkers,NY,10704,Westchester
+58155587,136oakSt,Yonkers,NY,10701,Westchester
+58159323,284 Hawthorne Ave,Yonkers,NY,10705,Westchester
+58160139,71 Ludlow St,Yonkers,NY,10705,Westchester
+58164086,167 Putnam Ave,Yonkers,NY,10705,Westchester
+58183199,333 S Middletown Rd,Pearl River,NY,10965,Rockland
+58982943,73 Crest Ct,Monsey,NY,10952,Rockland
+58988897,340 Remsen Av,Monsey,NY,10952,Rockland
+59004542,4 Anthony Dr,Spring Valley,NY,10977,Rockland
+59020735,27 Concord Dr,New City,NY,10956,Rockland
+59061082,241 Union Ave,Peekskill,NY,10566,Westchester
+59063963,807 Main St,Peekskill,NY,10566,Westchester
+59070684,7 Wharton Dr,Cortlandt Manor,NY,10567,Westchester
+59083878,715 Bloodgood Ct,Central Valley,NY,10917,Orange
+59132550,287 Lake Shore Dr,Pine Bush,NY,12566,Ulster
+59174413,46 Wisniewski Rd,Goshen,NY,10924,Orange
+59176218,11 Indian Ridge Rd,Westtown,NY,10998,Orange
+59191844,525 Hartwood Club Rd,Forestburgh,NY,12777,Sullivan
+59192485,59 Stevenson Rd,Forestburgh,NY,12777,Sullivan
+59194881,23 Height St,Monticello,NY,12701,Sullivan
+59197246,23 Wild Tpke,Rock Hill,NY,12775,Sullivan
+59198650,393 Yankee Lake Rd,Wurtsboro,NY,12790,Sullivan
+59207447,21 McCord Ln,Pine Bush,NY,12566,Ulster
+59209327,19 Camp Woods Ln,Ellenville,NY,12428,Ulster
+59217320,41 Sea Foam Ln,South Fallsburg,NY,12779,Sullivan
+59223151,102 Forest Park Ln,Monticello,NY,12701,Sullivan
+59229695,112 Mt Hope Rd,Swan Lake,NY,12783,Sullivan
+59233204,14 Church St,Liberty,NY,12754,Sullivan
+59235315,"11,Maple Ave N",Loch Sheldrake,NY,12759,Sullivan
+59235688,18 Generations Loop,Loch Sheldrake,NY,12759,Sullivan
+59242608,736 Callicoon Center Rd,Jeffersonville,NY,12748,Sullivan
+59252861,5593 State Route 97,Narrowsburg,NY,12764,Sullivan
+59267471,2125 Marvin Hollow Rd,Walton,NY,13856,Delaware
+59276929,21 Liberty St,Sidney,NY,13838,Delaware
+59278567,4287 State Highway 206,Sidney Center,NY,13839,Delaware
+59284484,68 Ford Way Rd,Ouaquaga,NY,13826,Broome
+59311056,1038 Hoben Rd,Oxford,NY,13830,Chenango
+59316308,492 Maroney Rd,McDonough,NY,13801,Chenango
+59320946,71 Turkey Hill Rd,Berkshire,NY,13736,Tioga
+59336319,20 Hotchkiss Ave,Binghamton,NY,13901,Broome
+59337009,12 Standish Ave,Binghamton,NY,13901,Broome
+59339007,524 Castle Creek Rd,Binghamton,NY,13901,Broome
+59348350,50 Mason Ave,Binghamton,NY,13904,Broome
+59358084,93 Tompkins St,Binghamton,NY,13903,Broome
+59381754,35 Beethoven St,Binghamton,NY,13905,Broome
+59382950,11 Minden Ave,Binghamton,NY,13905,Broome
+59390498,43 Sherman St,Johnson City,NY,13790,Broome
+59446439,1547 County Route 60,Elmira,NY,14901,Chemung
+59450134,768 State Route 17C,Waverly,NY,14892,Tioga
